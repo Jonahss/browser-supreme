@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle browser-supreme",
+        "command": "browser-supreme:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "browser-supreme",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "browser-supreme:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
