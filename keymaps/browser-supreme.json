@@ -1,5 +1,12 @@
 {
   "atom-workspace": {
     "ctrl-alt-o": "browser-supreme:toggle"
+  },
+  ".browser-supreme webview": {
+    "tab": "native!",
+    "shift-tab": "native!",
+    "click": "native!",
+    "pagedown": "native!",
+    "pageup": "native!"
   }
 }
